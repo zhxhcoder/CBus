@@ -1,2 +1,3 @@
 rootProject.name='CBus'
 include ':app'
+include ':livebuslib'
